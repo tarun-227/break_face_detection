@@ -20,3 +20,10 @@ build/
 # OS
 .DS_Store
 Thumbs.db
+data/
+results/
+*.ply
+*.pt
+*.pth
+*.npy
+*.npz
